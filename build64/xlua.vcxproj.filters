@@ -213,6 +213,9 @@
     <None Include="E:\xlua-lib-build\pbc" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="lua-5.3.4\src">
+      <UniqueIdentifier>{FAC22BB6-1D22-35CC-AB9C-516C67749C5E}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{CA865442-1936-3F30-8EF6-31B639513865}</UniqueIdentifier>
     </Filter>
@@ -221,9 +224,6 @@
     </Filter>
     <Filter Include="lua-5.3.4">
       <UniqueIdentifier>{91004E8C-7F68-3D6F-86BF-6529D9CF420E}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="lua-5.3.4\src">
-      <UniqueIdentifier>{FAC22BB6-1D22-35CC-AB9C-516C67749C5E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

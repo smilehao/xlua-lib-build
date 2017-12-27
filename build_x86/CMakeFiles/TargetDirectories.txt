@@ -1,3 +1,0 @@
-/home/smilehao/UbuntuShare/xlua-lib-build/build_x86/CMakeFiles/rebuild_cache.dir
-/home/smilehao/UbuntuShare/xlua-lib-build/build_x86/CMakeFiles/edit_cache.dir
-/home/smilehao/UbuntuShare/xlua-lib-build/build_x86/CMakeFiles/xlua.dir
